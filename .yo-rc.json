@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "version": "1.15.2",
+    "libraryName": "it-lean-share-point",
+    "libraryId": "4732b191-96a6-4155-9d10-ad3a7e694eb6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "it-lean-share-point",
+    "solutionShortDescription": "it-lean-share-point description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "it-lean-sharepoint-client-side-solution",
+    "id": "4732b191-96a6-4155-9d10-ad3a7e694eb6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "it-lean-sharepoint description"
+      },
+      "longDescription": {
+        "default": "it-lean-sharepoint description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "it-lean-sharepoint Feature",
+        "description": "The feature that activates elements of the it-lean-sharepoint solution.",
+        "id": "c52be851-6e4f-4d88-a735-ac7caf772cd3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/it-lean-sharepoint.sppkg"
+  }
+}
