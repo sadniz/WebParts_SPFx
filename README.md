@@ -40,6 +40,7 @@ Repositório com objetivo de estudo em conjunto.
 - Realizando o Merge da sua Branch para a Master
   > git checkout master
   > git merge <sua-branch-aqui>
+  > git push
 
 - Lembre-se de voltar para sua branch!
   > git checkout <sua-branch-aqui>
