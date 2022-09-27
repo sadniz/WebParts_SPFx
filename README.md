@@ -1,12 +1,15 @@
-# ITLean SharePoint Spfx WebPart Solution
+# ITLean SharePoint
+
 ## Summary
 
-> SPFx com React.
-[picture of the solution in action, if possible]
+Repositório com objetivo de estudo em conjunto.
 
-## Webparts:
-- Galeria
-- Banner
+## SPFx com React
+- Webparts
+
+## Webparts
+- Galeria (0.1)
+- Banner (WIP)
 
 ## Used SharePoint Framework Version
 
@@ -21,47 +24,54 @@
 
 > Node
 > react
-> typescript
+> Typescript
+
+## Como começar
+
+- Clonar o repositório
+  > git clone https://github.com/Miguelvfz/WebParts_SPFx.git
+  > git checkout -b <sua-branch-aqui>
+
+- Realizando commit na própria branch
+  > git add . [Adiciona todas as mudanças ao commit]
+  > git commit -a -m '[Insira seu comentário aqui]'
+  > git push
+
+- Realizando o Merge da sua Branch para a Master
+  > git checkout master
+  > git merge <sua-branch-aqui>
+
+- Lembre-se de voltar para sua branch!
+  > git checkout <sua-branch-aqui>
+
+- Outros comandos úteis
+  > git status [Verifica o status da branch atual]
+
+## Como executar
+
+- Tenha certeza de que está na pasta da solução
+- No terminal, execute:
+  - **npm install**
+  - **gulp serve**
 
 ## Solution
 
-| Solution    | Authors)                                               |
-| ----------- | ------------------------------------------------------ |
-| ITLean_SharePoint | Miguel Fernandez - @sadniz_                      |
+| Solution          | Authors          |
+| ----------------- | ---------------- |
+| ITLean_SharePoint | Miguel Fernandez |
 
 ## Version history
 
-| Version | Date               | Comments        |
-| ------- | ----------------   | --------------- |
-| 1.0     | September 26, 2021 | Initial release |
+| Version | Date               | Comments                       |
+| ------- | ------------------ | ------------------------------ |
+| 1.0     | September 26, 2021 | Initial release                |
+| 1.1     | September 26, 2021 | Miguel Branch/Readme updated   |
 
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
 ---
-
-## Minimal Path to Awesome
-
-- Clone this repository
-- Ensure that you are at the solution folder
-- in the command-line run:
-  - **npm install**
-  - **gulp serve**
-
-> Include any additional steps as needed.
-
-## Features
-
-Description of the extension that expands upon high-level summary above.
-
-This extension illustrates the following concepts:
-- Galeria
-- Banner
-
-> Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions advance.
-
-> Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects and other activities from http://aka.ms/m365pnp.
 
 ## References
 
