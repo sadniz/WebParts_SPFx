@@ -19,33 +19,34 @@ Repositório com objetivo de estudo em conjunto.
 
 1. Clonar o repositório
 
-  ><code> git</code> clone https://github.com/Miguelvfz/WebParts_SPFx.git
+  ><code> git clone https://github.com/Miguelvfz/WebParts_SPFx.git</code>
   >
-  ><code> git</code> checkout -b <sua-branch-aqui>
+  ><code> git checkout -b <sua-branch-aqui></code>
 
 2. Realizando commit na própria branch
-  ><code> git</code> add . [Adiciona todas as mudanças ao commit]
+  ><code> git add . [Adiciona todas as mudanças ao commit]</code>
   >
-  ><code> git</code> commit -a -m '[Insira seu comentário aqui]'
+  ><code> git commit -a -m '[Insira seu comentário aqui]'</code>
   >
-  ><code> git</code> push
+  ><code> git push</code>
 
 3. Realizando o Merge da sua Branch para a Master
-  ><code> git</code> checkout master
+  ><code> git checkout master</code>
   >
-  ><code> git</code> merge <sua-branch-aqui>
+  ><code> git merge <sua-branch-aqui></code>
   >
-  ><code> git</code> push
+  ><code> git push</code>
 
 4. Lembre-se de voltar para sua branch!
-  ><code> git</code> checkout <sua-branch-aqui>
+
+  ><code> git checkout <sua-branch-aqui></code>
   >
-  ><code> git</code> rebase master
+  ><code> git rebase master</code>
   >
-  ><code> git</code> push
+  ><code> git push</code>
 
 5. Outros comandos úteis
-  ><code> git</code> status [Verifica o status da branch atual]
+  ><code> git status [Verifica o status da branch atual]</code>
 
 
 ---
@@ -53,9 +54,9 @@ Repositório com objetivo de estudo em conjunto.
 
 1. Tenha certeza de que está na pasta da solução
 2. No terminal, execute:
-> **<code>npm</code> install**
+> **<code>npm install**</code>
 >
-> **<code>gulp</code> serve**
+> **<code>gulp serve**</code>
 
 ---
 
