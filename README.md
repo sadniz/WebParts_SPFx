@@ -44,6 +44,8 @@ Repositório com objetivo de estudo em conjunto.
 
 - Lembre-se de voltar para sua branch!
   > git checkout <sua-branch-aqui>
+  > git rebase master
+  > git push
 
 - Outros comandos úteis
   > git status [Verifica o status da branch atual]
